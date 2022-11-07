@@ -15,7 +15,7 @@ ImageButton.MouseButton1Down:connect(function()
     game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
 end)
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BF", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader", true))()
  
  
  
